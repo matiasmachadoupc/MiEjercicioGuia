@@ -1,1 +1,6 @@
-# MiEjercicioGuia
+# miEjercicioGuia  
+
+    VersionConConexionDesconexion
+    VersionConcurrente
+    VersionConExclusionMutua
+
